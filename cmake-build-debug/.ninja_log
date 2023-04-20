@@ -1,0 +1,6 @@
+# ninja log v5
+7	258	0	CMakeFiles/untitled5_autogen	e508aeafbc11697d
+279	1745	7036795892246183	CMakeFiles/untitled5.dir/main.cpp.obj	b9fe95f504538f09
+7	258	0	untitled5_autogen/mocs_compilation.cpp	e508aeafbc11697d
+259	421	7036795878999992	CMakeFiles/untitled5.dir/untitled5_autogen/mocs_compilation.cpp.obj	7b9a293c2d5b150
+1746	2900	7036795895096745	untitled5.exe	dc2b42668e61b715
